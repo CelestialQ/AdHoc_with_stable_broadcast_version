@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Q\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\2.4.1\c589509ec6fd86d5d2fda37e07c08538235d3b9\protobuf-java-2.4.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0c589509ec6fd86d5d2fda37e07c08538235d3b9">
+        <dex dex="C:\Users\Q\StudioProjects\AdHoc_with_stable_broadcast_version\app\build\intermediates\pre-dexed\debug\protobuf-java-2.4.1-efbfbae9e4f0d42306a8bfa92c9d6d330ec5ac04.jar" />
+    </item>
+
+</items>
