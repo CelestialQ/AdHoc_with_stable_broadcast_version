@@ -109,7 +109,7 @@ public class Node extends Observable implements Runnable {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.println("github");
+		
 		Debug.print("Node: all library threads are running");
 	}
 
